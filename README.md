@@ -25,15 +25,6 @@ Docker-based ROS1 (Noetic) development environment.
    docker exec -it ros1d bash
    ```
 
-## Features
-
-- ROS1 Noetic
-- Gazebo
-- Navigation stack
-- Turtlebot3
-- RViz/RQT
-- ROS Control
-
 ## Usage
 
 - Workspace: `/home/user/ros_ws`
